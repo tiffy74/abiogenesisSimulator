@@ -84,13 +84,20 @@ Dependencies:
 
 AbiogenesisSimulator/
 │
-├── MainWindow.xaml / .cs # UI and core simulation logic
-├── Reaction.cs # Reaction object model
-├── ReactionLibrary.cs # Preset reaction sets
-├── EnergyInput.cs # Environmental energy profiles
-├── EnergySystem.cs # Time-based energy events
-├── SunModel.cs # Stellar aging model
-├── App.xaml / .cs # WPF application entry
+├── App.xaml # Application startup configuration
+├── App.xaml.cs # Application lifecycle logic
+├── MainWindow.xaml # Main UI layout (WPF XAML)
+├── MainWindow.xaml.cs # Core simulation logic and chart rendering
+│
+├── Reaction.cs # Defines the Reaction data model
+├── ReactionLibrary.cs # Preset reaction sets for different environments
+│
+├── EnergyInput.cs # Defines external environmental energy patterns
+├── EnergySystem.cs # Time-specific energy events (e.g. asteroid)
+├── SunModel.cs # Simulates solar lifecycle effects
+│
+├── AssemblyInfo.cs # WPF theme/resource configuration
+└── AbiogenesisSimulator.csproj # Project definition and dependencies
 
 
 ---
