@@ -82,6 +82,7 @@ Dependencies:
 
 ## 📁 File Structure
 
+```
 AbiogenesisSimulator/
 │
 ├── App.xaml # Application startup configuration
@@ -98,7 +99,7 @@ AbiogenesisSimulator/
 │
 ├── AssemblyInfo.cs # WPF theme/resource configuration
 └── AbiogenesisSimulator.csproj # Project definition and dependencies
-
+```
 
 ---
 

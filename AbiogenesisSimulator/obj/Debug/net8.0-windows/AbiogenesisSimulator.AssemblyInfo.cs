@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbiogenesisSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef326820f8ec8b77427f62608ced72f3aa0c0872")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbiogenesisSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbiogenesisSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

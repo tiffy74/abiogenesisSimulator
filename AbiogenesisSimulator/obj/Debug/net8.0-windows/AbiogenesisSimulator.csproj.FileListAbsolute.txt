@@ -38,3 +38,4 @@ C:\Projects\AbiogenesisSimulator\AbiogenesisSimulator\obj\Debug\net8.0-windows\r
 C:\Projects\AbiogenesisSimulator\AbiogenesisSimulator\obj\Debug\net8.0-windows\AbiogenesisSimulator.pdb
 C:\Projects\AbiogenesisSimulator\AbiogenesisSimulator\obj\Debug\net8.0-windows\AbiogenesisSimulator.genruntimeconfig.cache
 C:\Projects\AbiogenesisSimulator\AbiogenesisSimulator\obj\Debug\net8.0-windows\ref\AbiogenesisSimulator.dll
+C:\Projects\AbiogenesisSimulator\AbiogenesisSimulator\obj\Debug\net8.0-windows\AbiogenesisSimulator.sourcelink.json
